@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android-Week3/app/src/main/res/layout/activity_onboarding_one.xml" value="0.3234375" />
+        <entry key="..\:/Android-Week3/app/src/main/res/layout/activity_onboarding_three.xml" value="0.3234375" />
+        <entry key="..\:/Android-Week3/app/src/main/res/layout/activity_onboarding_two.xml" value="0.3234375" />
+        <entry key="..\:/Android-Week3/app/src/main/res/layout/activity_profile.xml" value="0.3234375" />
+        <entry key="..\:/Android-Week3/app/src/main/res/layout/activity_sign_in.xml" value="0.3234375" />
+        <entry key="..\:/Android-Week3/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/AndroidWeek3/Android-Challenge-W3/app/src/main/res/layout/activity_onboarding_one.xml" value="0.21979166666666666" />
+        <entry key="..\:/AndroidWeek3/Android-Challenge-W3/app/src/main/res/layout/activity_onboarding_three.xml" value="0.21979166666666666" />
+        <entry key="..\:/AndroidWeek3/Android-Challenge-W3/app/src/main/res/layout/activity_onboarding_two.xml" value="0.21979166666666666" />
+        <entry key="..\:/AndroidWeek3/Android-Challenge-W3/app/src/main/res/layout/activity_profile.xml" value="0.21979166666666666" />
+        <entry key="..\:/AndroidWeek3/Android-Challenge-W3/app/src/main/res/layout/activity_sign_in.xml" value="0.21979166666666666" />
+        <entry key="..\:/AndroidWeek3/Android-Challenge-W3/app/src/main/res/layout/activity_sign_up.xml" value="0.21979166666666666" />
+        <entry key="..\:/AndroidWeek3/Android-Challenge-W3/app/src/main/res/layout/activity_welcome.xml" value="0.21979166666666666" />
+        <entry key="..\:/AndroidWeek3/Android-Challenge-W3/app/src/main/res/layout/dialog_edit_info.xml" value="0.21979166666666666" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/drawable/ic_arrow_forward_24.xml" value="0.2965" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/drawable/ic_grid.xml" value="0.2965" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2965" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2965" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/drawable/ic_linear.xml" value="0.2965" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/drawable/rounded_button.xml" value="0.2965" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/drawable/splash_screen.xml" value="0.2965" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/layout/activity_onboarding_three.xml" value="0.358695652173913" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/layout/activity_onboarding_two.xml" value="0.358695652173913" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/layout/activity_profile.xml" value="0.358695652173913" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/layout/activity_restaurant_list.xml" value="0.25" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/layout/activity_sign_in.xml" value="0.358695652173913" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/layout/activity_sign_up.xml" value="0.358695652173913" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/layout/activity_welcome.xml" value="0.358695652173913" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/layout/dialog_edit_info.xml" value="0.358695652173913" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/layout/item_grid_restaurant.xml" value="0.358695652173913" />
+        <entry key="..\:/Android_Week4/Android_Week4/app/src/main/res/layout/item_linear_restaurant.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Android_Week3/app/src/main/res/drawable/ic_grid.xml" value="0.224" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Android_Week3/app/src/main/res/drawable/ic_linear.xml" value="0.224" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Android_Week3/app/src/main/res/layout/activity_profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Android_Week3/app/src/main/res/layout/activity_restaurant_list.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Android_Week3/app/src/main/res/layout/item_grid_restaurant.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Android_Week3/app/src/main/res/layout/item_linear_restaurant.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Android_Week3/app/src/main/res/menu/menu_restaurant.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Anrdroid_Week4/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Anrdroid_Week4/app/src/main/res/layout/activity_restaurant_list.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Anrdroid_Week4/app/src/main/res/layout/fragment_onboarding_one.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Anrdroid_Week4/app/src/main/res/layout/fragment_onboarding_three.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Anrdroid_Week4/app/src/main/res/layout/fragment_onboarding_two.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Anrdroid_Week4/app/src/main/res/layout/fragment_profile.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Anrdroid_Week4/app/src/main/res/layout/fragment_restaurant_list.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Anrdroid_Week4/app/src/main/res/layout/fragment_sign_in.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Anrdroid_Week4/app/src/main/res/layout/fragment_sign_up.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Anrdroid_Week4/app/src/main/res/layout/fragment_user.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Anrdroid_Week4/app/src/main/res/layout/fragment_welcome.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Anrdroid_Week4/app/src/main/res/layout/item_linear_restaurant.xml" value="0.24592391304347827" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
